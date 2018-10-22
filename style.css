@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://media.giphy.com/media/xT9Igqq02d80wIqUpy/giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: rgba(255, 255, 255);
+  font-size: 5em;
+  font-family: "Montserrat", sans-serif;
+}
+
+.btn-primary {
+  background-color: rgb(0, 0, 0);
+  border-color: rgb(109, 109, 109);
+}
+
+.btn {
+  border-radius: 300px;
+}
+
+br {
+  background-color: red;
+}
