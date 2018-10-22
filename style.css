@@ -1,7 +1,12 @@
+html {
+  height: 100%;
+}
+
 body {
   background-image: url("https://media.giphy.com/media/xT9Igqq02d80wIqUpy/giphy.gif");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -21,8 +26,4 @@ h1 {
 
 .btn {
   border-radius: 300px;
-}
-
-br {
-  background-color: red;
 }
