@@ -35,8 +35,8 @@ a {
 a:hover,
 a:active,
 a:focus {
-  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
-  color: rgb(220, 220, 220);
+  border-bottom: 2px solid rgba(118, 29, 148, 0.3);
+  color: rgb(118, 29, 148);
 }
 
 h1 {
@@ -72,7 +72,7 @@ hr {
 .footnotes {
   font-size: 14px;
   line-height: calc(24 / 14);
-  color: rgb(182, 182, 182);
+  color: rgb(223, 223, 223);
 }
 
 .footnotes p {
