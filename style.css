@@ -91,7 +91,7 @@ body {
 body {
   line-height: calc(28 / 18);
   color: rgb(223, 223, 223);
-  font-size: 18px;
+  font-size: 1.1em;
   background-image: url("https://media.giphy.com/media/xT9Igqq02d80wIqUpy/giphy.gif");
   background-size: cover;
   background-repeat: no-repeat;
@@ -140,7 +140,7 @@ a:focus {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 2.5em;
   line-height: calc(52 / 40);
   font-weight: 600;
   font-family: "Founders Grotesk", sans-serif;
@@ -170,7 +170,7 @@ hr {
 }
 
 .footnotes {
-  font-size: 14px;
+  font-size: .9em;
   line-height: calc(24 / 14);
   color: rgb(223, 223, 223);
 }
