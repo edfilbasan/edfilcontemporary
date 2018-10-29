@@ -126,8 +126,18 @@ body {
 }
 
 
+
+
+h1 {
+  font-size: 2em;
+  line-height: calc(52 / 40);
+  font-weight: 600;
+  font-family: "Founders Grotesk", sans-serif;
+  color: rgb(255, 255, 255);
+}
+
 a {
-  font-weight: 700;
+  font-weight: 800;
   color: rgb(232, 232, 232);
   text-decoration: none;
   transition: all 100ms ease-out;
@@ -140,14 +150,6 @@ a:active,
 a:focus {
   border-bottom: 2px solid rgba(0, 230, 230, 0.3);
   color: #00e6e6;
-}
-
-h1 {
-  font-size: 2em;
-  line-height: calc(52 / 40);
-  font-weight: 600;
-  font-family: "Founders Grotesk", sans-serif;
-  color: rgb(255, 255, 255);
 }
 
 hr {
