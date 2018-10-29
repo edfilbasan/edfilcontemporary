@@ -162,11 +162,11 @@ hr {
 
 .content-container {
   display: grid;
-  grid-template-columns: minmax(min-content, 1000px);
+  grid-template-columns: minmax(min-content, 1024px);
   padding: 200px 128px;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 320px) {
   .content-container {
     grid-template-columns: 100%;
     padding: 16px;
