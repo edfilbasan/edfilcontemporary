@@ -162,7 +162,7 @@ hr {
   padding: 200px 128px;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 300px) {
   .content-container {
     grid-template-columns: 100%;
     padding: 16px;
