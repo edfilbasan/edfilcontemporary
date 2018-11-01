@@ -149,7 +149,7 @@ a:focus {
 }
 
 #design {
-  border-bottom: 4px solid rgba(0, 230, 230);
+  border-bottom: 4px solid rgba(0, 230, 230, 1);
 }
 
 hr {
