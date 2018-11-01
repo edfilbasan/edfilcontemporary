@@ -122,8 +122,6 @@ body {
 }
 
 
-
-
 h1 {
   font-size: 2em;
   line-height: calc(52 / 40);
@@ -149,7 +147,7 @@ a:focus {
 }
 
 #design {
-  border-bottom: 4px solid rgba(0, 230, 230, 1);
+  border-bottom: 4px solid rgb(0, 230, 230);
 }
 
 hr {
