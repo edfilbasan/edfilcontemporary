@@ -100,11 +100,6 @@ body {
   background-position: center;
 }
 
-
-#design {
-  border-bottom: 4px solid rgba(0, 230, 230);
-}
-
 .hvr-float {
   display: inline-block;
   vertical-align: middle;
@@ -151,6 +146,10 @@ a:active,
 a:focus {
   border-bottom: 2px solid rgba(0, 230, 230, 0.3);
   color: #00e6e6;
+}
+
+#design {
+  border-bottom: 4px solid rgba(0, 230, 230);
 }
 
 hr {
